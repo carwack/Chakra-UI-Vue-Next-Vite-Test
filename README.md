@@ -2,7 +2,7 @@
 
 This is a test project with Chakra UI Vue Next and Vite.
 
-The Vue 3 + TS + VIte template is used for this. (more information below).
+The Vue 3 + TS + Vite template is used for this. (more information below).
 
 In this project, VSCode is setup to work with the Volar Extension.
 
