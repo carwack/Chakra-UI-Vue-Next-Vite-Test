@@ -141,7 +141,7 @@ emojis-list@^3.0.0:
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
-esbuild@^0.8.47:
+esbuild@^0.8.52:
   version "0.8.52"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.52.tgz#6dabf11c517af449a96d66da20dfc204ee7b5294"
   integrity sha512-b5KzFweLLXoXQwdC/e2+Z80c8uo2M5MgP7yQEEebkFw6In4T9CvYcNoM2ElvJt8ByO04zAZUV0fZkXmXoi2s9A==
@@ -150,6 +150,11 @@ estree-walker@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/estree-walker/-/estree-walker-2.0.2.tgz#52f010178c2a4c117a7757cfe942adb7d2da4cac"
   integrity sha512-Rfkk/Mp/DL7JVje3u18FxFujQlTNR2q6QfMSMB7AvCBx91NGj/ba3kCfza0f6dVDbw7YlRf/nDrn7pQrCCyQ/w==
+
+feather-icons-paths@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/feather-icons-paths/-/feather-icons-paths-1.0.8.tgz#5cd68b6a1eb22b1ec08a8b2eaaf05a345cb216e4"
+  integrity sha512-B07o6Vtx3ATZDbsdx6jyYEXEmsn7Rwl0tT80657DL3kHf9Fo4Jncun3nxjZjNHbhKmd44wFXH269kU893E1DhQ==
 
 fsevents@~2.3.1:
   version "2.3.2"
@@ -381,11 +386,11 @@ util-deprecate@^1.0.2:
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
 
 vite@^2.0.1:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.3.tgz#ea0329295d4da9341e670036e5e7f0bfa30ae2cf"
-  integrity sha512-4CUm3FVUHyTSSSK6vHWkj3SVkP+GGNNzwYcFsHOjjc8xQ3BPjJa1JDDmFlYxpxR29ANa+7RWptYPoyHyJ29Nhw==
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.4.tgz#063532a4139b59a067297d8ebb5960d450907a09"
+  integrity sha512-+PP89D7AKXFE4gps8c5+4eP5yXTh5qCogjdYX7iSsIxbLZAa26JoGSq6OLk0qdb/fqDh7gtJqGiLbG2V6NvkKQ==
   dependencies:
-    esbuild "^0.8.47"
+    esbuild "^0.8.52"
     postcss "^8.2.1"
     resolve "^1.19.0"
     rollup "^2.38.5"
