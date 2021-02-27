@@ -33,7 +33,7 @@
           d="flex"
           flex-dir="row"
         >
-          <CButton
+          <c-button
             as="a"
             text-decoration="none"
             href="https://github.com/chakra-ui/chakra-ui-vue-next"
@@ -41,8 +41,8 @@
             size="lg"
           >
             Get started
-          </CButton>
-          <CButton
+          </c-button>
+          <c-button
             as="a"
             text-decoration="none"
             href="https://github.com/chakra-ui/chakra-ui-vue-next"
@@ -52,7 +52,7 @@
             size="lg"
           >
             Github
-          </CButton>
+          </c-button>
         </chakra.div>
       </chakra.div>
     </chakra.div>
@@ -62,12 +62,24 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
 import { CReset, CButton } from "@chakra-ui/vue-next"
+import { useHead } from '@vueuse/head'
 
 export default defineComponent({
   name: 'App',
   components: {
     CReset,
     CButton
+  },
+  setup () {
+    useHead({
+      title: 'Chakra UI Vue Next + Vite',
+      meta: [
+        {
+          name: `Chakra UI Vue Next + Vite`,
+          content: `Chakra UI Vue Next + Vite test`,
+        },
+      ],
+    })
   }
 })
 </script>
