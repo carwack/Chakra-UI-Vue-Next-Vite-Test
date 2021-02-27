@@ -1,4 +1,5 @@
 <template>
+  <c-reset />
   <chakra.img m="auto" h="150px" alt="Chakra UI Vue logo" src="/src/assets/chakra-logo.jpg" />
   <chakra.header
     pos="relative"
@@ -57,11 +58,12 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import { CButton } from "@chakra-ui/vue-next"
+import { CReset, CButton } from "@chakra-ui/vue-next"
 
 export default defineComponent({
   name: 'App',
   components: {
+    CReset,
     CButton
   }
 })
