@@ -21,8 +21,11 @@
         w="550px"
       >
         <chakra.h1 font-size="2em" font-weight="bold">
-          Chakra UI Vue Next - Build Accessible Vue (3) apps with Speed ⚡️
+          Chakra UI Vue Next
         </chakra.h1>
+        <chakra.h2 font-size="1.5em" font-weight="bold">
+          Build Accessible Vue (3) apps with Speed ⚡️
+        </chakra.h2>
         <chakra.p mt="4" mb="6">
           Chakra UI Vue Next is a simple modular and accessible component library that gives you the building blocks to build Vue applications with speed.
         </chakra.p>
