@@ -60,7 +60,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent, reactive, computed } from 'vue'
 import { CReset, CButton } from "@chakra-ui/vue-next"
 import { useHead } from '@vueuse/head'
 
@@ -71,12 +71,17 @@ export default defineComponent({
     CButton
   },
   setup () {
-    useHead({
+    const siteData = reactive({
       title: 'Chakra UI Vue Next + Vite',
+      description: 'Chakra UI Vue Next + Vite test'
+    })
+
+    useHead({
+      title: computed(() => siteData.title),
       meta: [
         {
-          name: `Chakra UI Vue Next + Vite`,
-          content: `Chakra UI Vue Next + Vite test`,
+          name: `description`,
+          content: computed(() => siteData.description)
         },
       ],
     })
