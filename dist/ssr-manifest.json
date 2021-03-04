@@ -1,1148 +1,1202 @@
 {
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/vendor.4f31d4cb.js"
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/packages/theme-tools/node_modules/tinycolor2/tinycolor.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/packages/theme-tools/node_modules/tinycolor2/tinycolor.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/lodash.mergewith/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/lodash.mergewith/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/object-assign/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/object-assign/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/tiny-invariant/dist/tiny-invariant.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/tiny-invariant/dist/tiny-invariant.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/css-box-model/dist/css-box-model.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/css-box-model/dist/css-box-model.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/assertion.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/assertion.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/function.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/function.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/types.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/types.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/dom.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/dom.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/array.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/array.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/object.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/object.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/number.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/number.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/tabbable.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/tabbable.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/dom-query.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/dom-query.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "\u0000/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/object-assign/index.js?commonjs-proxy": [
-    "/assets/vendor.4f31d4cb.js"
+  "\u0000/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/object-assign/index.js?commonjs-proxy": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/react/cjs/react.production.min.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/react/cjs/react.production.min.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "\u0000/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/react/cjs/react.production.min.js?commonjs-proxy": [
-    "/assets/vendor.4f31d4cb.js"
+  "\u0000/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/react/cjs/react.production.min.js?commonjs-proxy": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/react/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/react/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/react-helpers.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/react-helpers.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/responsive.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/responsive.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/focus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/utils/dist/esm/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/directionality.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/directionality.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/logical-prop.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/logical-prop.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/get-unit.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/get-unit.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/positive-or-negative.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/positive-or-negative.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/sort.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/sort.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/types.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/types.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/parse-responsive.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/parse-responsive.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/create-parser.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/create-parser.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/create-style-function.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/create-style-function.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/create-system.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/create-system.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/types.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/types.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/core/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/parse-gradient.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/utils/parse-gradient.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/background.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/background.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/border.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/border.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/color.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/color.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/flexbox.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/flexbox.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/grid.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/grid.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/layout.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/layout.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/others.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/others.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/position.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/position.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/shadow.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/shadow.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/space.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/space.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/typography.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/typography.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/outline.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/outline.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/list.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/list.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/transition.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/transition.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/transform.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/transform.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/config/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/pseudo/pseudo.selector.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/pseudo/pseudo.selector.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/pseudo/pseudo.utils.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/pseudo/pseudo.utils.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/pseudo/pseudo.types.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/pseudo/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/pseudo/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/parser.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/parser.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/css.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/css.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/types.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/css.types.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/theming.types.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/parser.types.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/system.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/system.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@chakra-ui/styled-system/dist/esm/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/src/Enum.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/src/Enum.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/src/Utility.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/src/Utility.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/src/Tokenizer.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/src/Tokenizer.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/src/Parser.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/src/Parser.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/src/Prefixer.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/src/Prefixer.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/src/Serializer.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/src/Serializer.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/src/Middleware.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/src/Middleware.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/stylis/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/stylis/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/weak-memoize/dist/weak-memoize.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/weak-memoize/dist/weak-memoize.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/memoize/dist/emotion-memoize.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/memoize/dist/emotion-memoize.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/hash/dist/hash.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/hash/dist/hash.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/unitless/dist/unitless.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/unitless/dist/unitless.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/css/create-instance/dist/emotion-css-create-instance.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/css/create-instance/dist/emotion-css-create-instance.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/@emotion/css/dist/emotion-css.esm.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/@emotion/css/dist/emotion-css.esm.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/lodash.kebabcase/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/lodash.kebabcase/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/clients/Chakra-UI-Vue/code/chakra-ui-vue-next/node_modules/lodash.camelcase/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/chakra-ui-vue-next/node_modules/lodash.camelcase/index.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/@vueuse/head/dist/index.mjs": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/vite-ssg/dist/chunk.46RN3I3Z.mjs": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/vite-ssg/dist/chunk.46RN3I3Z.mjs": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/vite-ssg/dist/client/single-page.mjs": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/vite-ssg/dist/client/single-page.mjs": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/activity.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/activity.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/airplay.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/airplay.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/alert-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/alert-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/alert-octagon.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/alert-octagon.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/alert-triangle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/alert-triangle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/align-center.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/align-center.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/align-justify.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/align-justify.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/align-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/align-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/align-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/align-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/anchor.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/anchor.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/aperture.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/aperture.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/archive.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/archive.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-down-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-down-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-down-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-down-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-down-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-down-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-down.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-down.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-left-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-left-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-right-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-right-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-up-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-up-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-up-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-up-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-up-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-up-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/arrow-up.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/arrow-up.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/at-sign.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/at-sign.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/award.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/award.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/bar-chart-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/bar-chart-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/bar-chart.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/bar-chart.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/battery-charging.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/battery-charging.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/battery.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/battery.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/bell-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/bell-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/bell.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/bell.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/bluetooth.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/bluetooth.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/bold.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/bold.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/book-open.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/book-open.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/book.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/book.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/bookmark.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/bookmark.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/box.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/box.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/briefcase.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/briefcase.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/calendar.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/calendar.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/camera-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/camera-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/camera.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/camera.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cast.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cast.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/check-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/check-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/check-square.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/check-square.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/check.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/check.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevron-down.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevron-down.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevron-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevron-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevron-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevron-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevron-up.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevron-up.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevrons-down.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevrons-down.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevrons-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevrons-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevrons-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevrons-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chevrons-up.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chevrons-up.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/chrome.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/chrome.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/clipboard.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/clipboard.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/clock.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/clock.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cloud-drizzle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cloud-drizzle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cloud-lightning.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cloud-lightning.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cloud-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cloud-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cloud-rain.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cloud-rain.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cloud-snow.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cloud-snow.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cloud.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cloud.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/code.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/code.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/codepen.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/codepen.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/codesandbox.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/codesandbox.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/coffee.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/coffee.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/columns.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/columns.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/command.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/command.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/compass.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/compass.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/copy.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/copy.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-down-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-down-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-down-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-down-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-left-down.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-left-down.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-left-up.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-left-up.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-right-down.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-right-down.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-right-up.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-right-up.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-up-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-up-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/corner-up-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/corner-up-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/cpu.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/cpu.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/credit-card.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/credit-card.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/crop.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/crop.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/crosshair.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/crosshair.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/database.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/database.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/delete.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/delete.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/disc.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/disc.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/divide-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/divide-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/divide-square.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/divide-square.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/divide.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/divide.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/dollar-sign.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/dollar-sign.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/download-cloud.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/download-cloud.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/download.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/download.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/dribbble.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/dribbble.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/droplet.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/droplet.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/edit-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/edit-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/edit-3.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/edit-3.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/edit.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/edit.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/external-link.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/external-link.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/eye-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/eye-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/eye.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/eye.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/facebook.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/facebook.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/fast-forward.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/fast-forward.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/feather.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/feather.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/figma.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/figma.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/file-minus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/file-minus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/file-plus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/file-plus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/file-text.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/file-text.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/file.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/file.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/film.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/film.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/filter.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/filter.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/flag.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/flag.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/folder-minus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/folder-minus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/folder-plus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/folder-plus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/folder.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/folder.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/framer.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/framer.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/frown.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/frown.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/gift.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/gift.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/git-branch.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/git-branch.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/git-commit.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/git-commit.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/git-merge.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/git-merge.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/git-pull-request.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/git-pull-request.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/github.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/github.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/gitlab.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/gitlab.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/globe.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/globe.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/grid.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/grid.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/hard-drive.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/hard-drive.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/hash.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/hash.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/headphones.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/headphones.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/heart.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/heart.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/help-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/help-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/hexagon.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/hexagon.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/home.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/home.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/image.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/image.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/inbox.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/inbox.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/info.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/info.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/instagram.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/instagram.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/italic.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/italic.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/key.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/key.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/layers.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/layers.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/layout.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/layout.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/life-buoy.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/life-buoy.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/link-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/link-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/link.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/link.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/linkedin.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/linkedin.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/list.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/list.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/loader.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/loader.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/lock.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/lock.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/log-in.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/log-in.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/log-out.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/log-out.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/mail.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/mail.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/map-pin.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/map-pin.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/map.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/map.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/maximize-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/maximize-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/maximize.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/maximize.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/meh.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/meh.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/menu.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/menu.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/message-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/message-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/message-square.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/message-square.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/mic-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/mic-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/mic.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/mic.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/minimize-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/minimize-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/minimize.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/minimize.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/minus-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/minus-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/minus-square.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/minus-square.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/minus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/minus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/monitor.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/monitor.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/moon.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/moon.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/more-horizontal.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/more-horizontal.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/more-vertical.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/more-vertical.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/mouse-pointer.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/mouse-pointer.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/move.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/move.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/music.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/music.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/navigation-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/navigation-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/navigation.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/navigation.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/octagon.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/octagon.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/package.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/package.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/paperclip.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/paperclip.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/pause-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/pause-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/pause.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/pause.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/pen-tool.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/pen-tool.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/percent.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/percent.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/phone-call.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/phone-call.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/phone-forwarded.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/phone-forwarded.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/phone-incoming.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/phone-incoming.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/phone-missed.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/phone-missed.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/phone-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/phone-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/phone-outgoing.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/phone-outgoing.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/phone.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/phone.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/pie-chart.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/pie-chart.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/play-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/play-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/play.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/play.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/plus-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/plus-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/plus-square.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/plus-square.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/plus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/plus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/pocket.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/pocket.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/power.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/power.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/printer.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/printer.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/radio.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/radio.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/refresh-ccw.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/refresh-ccw.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/refresh-cw.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/refresh-cw.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/repeat.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/repeat.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/rewind.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/rewind.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/rotate-ccw.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/rotate-ccw.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/rotate-cw.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/rotate-cw.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/rss.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/rss.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/save.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/save.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/scissors.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/scissors.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/search.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/search.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/send.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/send.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/server.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/server.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/settings.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/settings.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/share-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/share-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/share.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/share.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/shield-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/shield-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/shield.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/shield.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/shopping-bag.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/shopping-bag.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/shopping-cart.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/shopping-cart.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/shuffle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/shuffle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/sidebar.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/sidebar.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/skip-back.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/skip-back.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/skip-forward.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/skip-forward.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/slack.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/slack.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/slash.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/slash.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/sliders.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/sliders.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/smartphone.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/smartphone.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/smile.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/smile.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/speaker.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/speaker.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/square.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/square.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/star.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/star.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/stop-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/stop-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/sun.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/sun.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/sunrise.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/sunrise.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/sunset.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/sunset.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/tablet.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/tablet.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/tag.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/tag.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/target.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/target.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/terminal.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/terminal.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/thermometer.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/thermometer.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/thumbs-down.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/thumbs-down.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/thumbs-up.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/thumbs-up.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/toggle-left.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/toggle-left.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/toggle-right.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/toggle-right.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/tool.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/tool.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/trash-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/trash-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/trash.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/trash.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/trello.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/trello.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/trending-down.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/trending-down.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/trending-up.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/trending-up.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/triangle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/triangle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/truck.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/truck.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/tv.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/tv.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/twitch.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/twitch.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/twitter.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/twitter.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/type.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/type.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/umbrella.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/umbrella.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/underline.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/underline.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/unlock.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/unlock.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/upload-cloud.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/upload-cloud.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/upload.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/upload.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/user-check.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/user-check.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/user-minus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/user-minus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/user-plus.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/user-plus.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/user-x.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/user-x.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/user.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/user.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/users.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/users.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/video-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/video-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/video.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/video.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/voicemail.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/voicemail.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/volume-1.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/volume-1.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/volume-2.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/volume-2.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/volume-x.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/volume-x.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/volume.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/volume.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/watch.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/watch.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/wifi-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/wifi-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/wifi.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/wifi.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/wind.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/wind.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/x-circle.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/x-circle.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/x-octagon.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/x-octagon.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/x-square.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/x-square.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/x.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/x.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/youtube.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/youtube.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/zap-off.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/zap-off.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/zap.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/zap.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/zoom-in.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/zoom-in.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/icons/zoom-out.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/icons/zoom-out.js": [
+    "/assets/vendor.1265a629.js"
   ],
-  "/Users/carwack/Documents/ownProjects/chakra-test/chakra-ui-vue-next-test-vite/node_modules/feather-icons-paths/dist/esm/index.js": [
-    "/assets/vendor.4f31d4cb.js"
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/feather-icons-paths/dist/esm/index.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/src/Enum.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/src/Utility.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/src/Tokenizer.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/src/Parser.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/src/Prefixer.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/src/Serializer.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/src/Middleware.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/stylis/index.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/weak-memoize/dist/weak-memoize.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/memoize/dist/emotion-memoize.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/hash/dist/hash.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/unitless/dist/unitless.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/css/create-instance/dist/emotion-css-create-instance.esm.js": [
+    "/assets/vendor.1265a629.js"
+  ],
+  "/Users/jonathanbakebwa/Github/Chakra-UI-Vue-Next-Vite-Test/node_modules/@emotion/css/dist/emotion-css.esm.js": [
+    "/assets/vendor.1265a629.js"
   ]
 }
